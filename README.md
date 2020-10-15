@@ -1,2 +1,2 @@
 # hello-word
-Just another repository
+Are you crazy
